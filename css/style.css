@@ -550,6 +550,7 @@ button {
     background-size: 100%;
     padding-bottom: 345px;
     padding-top: 200px;
+    image-resolution: 2000;
 }
 
 .blog_taital {
