@@ -432,8 +432,7 @@ button {
 }
 
 .services_img {
-    width: 303px;
-    height: 353px;
+    width: 100%;
     float: left;
     text-align: center;
 }
