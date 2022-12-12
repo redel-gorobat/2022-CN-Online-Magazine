@@ -558,6 +558,7 @@ button {
 .readmore_mid a:hover {
     color: #ffffff;
     background-color: #2b2278;
+    tab-size: 0ch;
 }
 
 
