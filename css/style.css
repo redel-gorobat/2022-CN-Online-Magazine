@@ -538,13 +538,13 @@ button {
 }
 .readmore_mid {
     width: 170px;
-    float: center;
+    float: right;
     margin-top: 50px;
 }
 
 .readmore_mid a {
     width: 100%;
-    float: center;
+    float: right;
     font-size: 16px;
     color: #ffffff;
     background-color: #000d10;
