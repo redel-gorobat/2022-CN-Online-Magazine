@@ -535,6 +535,31 @@ button {
     float: left;
 }
 
+}
+.readmore_mid {
+    width: 170px;
+    float: middle;
+    margin-top: 50px;
+}
+
+.readmore_mid a {
+    width: 100%;
+    float: middle;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #000d10;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.readmore_mid a:hover {
+    color: #ffffff;
+    background-color: #2b2278;
+}
+
 
 /* contact section end */
 
